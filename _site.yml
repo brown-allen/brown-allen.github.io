@@ -1,0 +1,21 @@
+name: "Allen S. Brown"
+output_dir: "."
+navbar:
+  title: "Allen S. Brown"
+right:
+- text: "work"
+href: work.html
+  - text: "about"
+href: about.html
+- text: "resume"
+href: resume.html
+output:
+  html_document:
+  theme: journal
+highlight: textmate
+css: css/style.css
+df_print: paged
+toc: true
+toc_float: yes
+bibliography: library.bib
+biblio-style: apalike
