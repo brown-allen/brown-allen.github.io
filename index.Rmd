@@ -1,5 +1,5 @@
 ---
-title: 'Allen S. Brown | Wake Forest University'
+title: 'Allen S. Brown'
 ---
 
 ```{r, child="_setup.Rmd"}
@@ -9,5 +9,12 @@ title: 'Allen S. Brown | Wake Forest University'
 knitr::include_graphics("website_headshot.png")
 ```
 
-In my current role as the Director of Online Education I work closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. I previously worked as the Associate Director for Instructional Design. Before arriving at Wake Forest in January 2015, my professional career included nearly a decade in education, moving from work teaching high school physics and chemistry to instructional design in higher education. My areas of professional interest include program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.
+|
+
+## Director of Online Education | Wake Forest University
+
+|
+|
+
+In my current role I work closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. I previously worked as the Associate Director for Instructional Design. Before arriving at Wake Forest in January 2015, my professional career included nearly a decade in education, moving from work teaching high school physics and chemistry to instructional design in higher education. My areas of professional interest include program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.
 

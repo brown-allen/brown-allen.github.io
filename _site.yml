@@ -17,5 +17,3 @@ output:
     toc_float: yes
     bibliography: library.bib
     biblio-style: apalike
-    include:
-      after_body: footer.html
