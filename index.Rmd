@@ -1,12 +1,12 @@
 ---
-title: ""
+title: ''
 ---
 
 ```{r, child="_setup.Rmd"}
 ```
 
-```{r, out.width = "50%", fig.align = 'center', echo=FALSE}
-include_graphics("website_headshot.png")
+```{r, out.width = "80%", fig.align = 'center', echo=FALSE}
+knitr::include_graphics("website_headshot.png")
 ```
 
 **Allen S. Brown, Wake Forest University**
