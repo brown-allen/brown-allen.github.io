@@ -1,15 +1,10 @@
-```{r global_options, echo = FALSE, message=FALSE}
+---
+title: "Untitled"
 
-library(knitr)
-opts_chunk$set(cache.path='_cache/', # set dir for caches
-               fig.path = 'figures/', # set dir for figures
-               fig.align = 'center', # center all figures
-               warning = FALSE, # no warnings
-               message = FALSE, # no messages
-               error = FALSE) # no errors
+---
 
-library(tidyverse)
-theme_set(theme_minimal()) # set global ggplot theme
-
-library(EBImage) # for displaying images as figures
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+suppressPackageStartupMessages(library(tidyverse))
+```
 ```
