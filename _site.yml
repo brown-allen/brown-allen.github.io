@@ -1,7 +1,7 @@
 name: "asb"
 output_dir: "docs"
 navbar:
-  title: "Allen S. Brown"
+  title: "asb"
   right:
   - text: "resume"
     href: resume.html

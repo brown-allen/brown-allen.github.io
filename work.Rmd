@@ -6,9 +6,41 @@ output: html_document
 ```
 
 ## Ongoing Research
+
+|
+
 * Learning Analytics Research Seminar Cohort. *Learning analytics from a systems perspective* [Working White paper]. Oregon State University Ecampus Research Unit.
 * Brown, A., Dello Stritto, M. E., Heiser, R., Nyland, R., et al. “Learning Analytics from a Systems Perspective: Implications for Practice.” *Educause Review* [Submitted]
 * Dello Stritto, M. E., Heiser, R., Brown, A., Croft, B. “Issues of bias & equity in the uses of learner data.” (Manuscript in progress)
 * Rives, A. & Brown, A. “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry,” (Manuscript in progress)
 
 Details: [Learning Analytics Research Cohort](https://ecampus.oregonstate.edu/research/opportunities/online-teaching-learning-research-seminars/cohort/), Ecampus Research Unit, Oregon State University
+
+|
+|
+
+## Selected Presentations, Posts, & Projects
+
+|
+|
+
+### Course Workload Estimator
+Joined with Betsy Barre and Justin Esarey to modify their initial workload estimator. The enhanced workload estimator included some additional fields particularly salient to online course designs.
+[Course Workload Estimator 2.0](https://cat.wfu.edu/resources/tools/estimator2)
+
+|
+
+### Chunking Content, Online Course Design
+Invited presentation to the School of Law faculty in preparation for online and remote instruction in 2020.
+<details>
+  <summary>*Expand to View*</summary>
+<iframe src="https://player.vimeo.com/video/437171592?h=c5bcd8c736" width="640" height="354" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</details>
+|
+|
+
+### Selected Blog Posts
+* [Building the Online Learning Community](https://cat.wfu.edu/2020/04/onlinecommunity/#) (April 2020). Center for the Advancement of Teaching Blog.
+* [Scratching an Itch](https://oe.wfu.edu/2019/02/scratching-an-itch/) (February 2019). Office of Online Education Blog.
+* [Human-centered Instructional Design](https://oe.wfu.edu/2019/02/human-centered-instructional-design/) (February 2019). Office of Online Education Blog.
+* [Building the Ship while Sailing: Faculty Learning Communities and Technology](https://www.facultyfocus.com/articles/faculty-development/faculty-learning-communities-technology/) (Feburary 2018). Faculty Focus, Magna Publications.
