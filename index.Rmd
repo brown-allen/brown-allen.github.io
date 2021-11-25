@@ -5,7 +5,7 @@ title: "Allen S. Brown, Wake Forest University"
 ```{r, child="_setup.Rmd"}
 ```
 
-```{r, out.width = "50%", fig.align = 'center, echo=FALSE}
+```{r, out.width = "50%", fig.align = 'center, out.extra='style="padding:20px;"' , echo=FALSE}
 include_graphics("website_headshot.png")
 ```
 
