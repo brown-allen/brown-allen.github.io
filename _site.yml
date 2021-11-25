@@ -3,7 +3,7 @@ output_dir: "docs"
 navbar:
   title: "asb"
   right:
-  - text: "resume"
+  - text: "resume/CV"
     href: resume.html
   - text: "work"
     href: work.html

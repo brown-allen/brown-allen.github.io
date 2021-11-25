@@ -1,34 +1,37 @@
 ---
-title: "Resume / CV"
+title: "Allen S. Brown | Resume"
 output: html_document
 ---
 ```{r, child="_setup.Rmd"}
 ```
 
 ## Professional Experience
+
 |
+
 #### Wake Forest University
-|     Director, Office of Online Education (2019-Present)
-|     Associate Director, Instructional Design (2018-2019)
-|     Instructional Designer (2015-2018)
-|
+* Director, Office of Online Education (2019-Present)
+* Associate Director, Instructional Design (2018-2019)
+* Instructional Designer (2015-2018)
 <details>
   <summary>*Position Details*</summary>
 *Advise senior academic administrators, schools, and programs on the design, development, and implementation of a broad range of online learning experiences (both degree & non-degree) in a manner that aligns with strategic objectives and values while ensuring the instructional integrity of online course development projects across the institution. Conducted original research, fostered strategic collaborations, and created evidence-based resources and tools that contributed to effective online teaching, learning and program administration. Developed and curated resources, tools, and technologies to evaluate and shape online course design and delivery. Oversaw training, on-demand help guides, and secondary technical support designed to support instructors teaching online courses. Managed a diverse team that contributed to a transparent and equitable organizational culture.*
 </details> 
-|
+
+| 
+
 #### Fuller Theological Seminary
-|     Instructional Designer, Office of Teaching & Learning (2013-2015)
-|
+* Instructional Designer, Office of Teaching & Learning (2013-2015)
 <details>
   <summary>*Position Details*</summary>
 *Partnered with faculty to design, redesign, and assess online courses and other learning experiences across the institution. Developed several new resources relevant to online course development. Partnered closely with IT to integrate new technologies in the service of teaching and learning.*
 </details> 
+
 |
+
 #### Maranatha High School
-|     Science Faculty (2006-2013)
-|     Department Chair (2010-2013)
-|
+* Science Faculty (2006-2013)
+* Department Chair (2010-2013)
 <details>
   <summary>*Position Details*</summary>
 *During my tenure as chair the school improved over virtually every relevant metric related to science enrollment and performance while new enrollments remained relatively stable. Initiated several new extracurricular opportunities (Science Olympiad, Science Quiz Bowl, School Science Fair, Student Internship & Research Opportunities). Increased both overall and URM enrollments in AP science courses while also increasing average score and pass rate. Average pass rate for AP Chemistry exams at the school went from 0% in the year before teaching the course to 95% year four.*
@@ -49,7 +52,7 @@ output: html_document
 |
 
 ## Presentations
-* Brown, A. “Perceptions of learning analytics in higher ed: A systems perspective.” *Higher Ed Utilization of Learning Analytics*. Emory University: Jones Program in Ethics. Invited Presentation. (April 2021)
+* Brown, A. “[Perceptions of learning analytics in higher ed: A systems perspective](https://www.trumba.com/calendars/lgs_jpe?eventid=150584802).” *Higher Ed Utilization of Learning Analytics*. Emory University: Jones Program in Ethics. Invited Presentation. (April 2021)
 * Brown, A., Heiser, R., McCarty, S., Nyland, R., Quick J., & Thomas, R. “Learning Analytics from a Systems Perspective.” Oregon State University Ecampus Leadership Team. Invited Presentation. (February 2021)
 * Presenter, “[Learning Analytics: Friend or Foe?](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6720&kwds=)” *OLC Innovate Conference*, Denver, CO (April 2019)
 * Presenter, “[Rethinking synchronicity](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6608&kwds=_)” *OLC Innovate Conference*, Denver, CO (April 2019)
