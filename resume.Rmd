@@ -1,17 +1,75 @@
 ---
-title: "resume"
+title: "Resume / CV"
 output: html_document
 ---
 ```{r, child="_setup.Rmd"}
 ```
 
-## Education
-
-
 ## Professional Experience
+|
+#### Wake Forest University
+|     Director, Office of Online Education (2019-Present)
+|     Associate Director, Instructional Design (2018-2019)
+|     Instructional Designer (2015-2018)
+|
+<details>
+  <summary>*Position Details*</summary>
+*Advise senior academic administrators, schools, and programs on the design, development, and implementation of a broad range of online learning experiences (both degree & non-degree) in a manner that aligns with strategic objectives and values while ensuring the instructional integrity of online course development projects across the institution. Conducted original research, fostered strategic collaborations, and created evidence-based resources and tools that contributed to effective online teaching, learning and program administration. Developed and curated resources, tools, and technologies to evaluate and shape online course design and delivery. Oversaw training, on-demand help guides, and secondary technical support designed to support instructors teaching online courses. Managed a diverse team that contributed to a transparent and equitable organizational culture.*
+</details> 
+|
+#### Fuller Theological Seminary
+|     Instructional Designer, Office of Teaching & Learning (2013-2015)
+|
+<details>
+  <summary>*Position Details*</summary>
+*Partnered with faculty to design, redesign, and assess online courses and other learning experiences across the institution. Developed several new resources relevant to online course development. Partnered closely with IT to integrate new technologies in the service of teaching and learning.*
+</details> 
+|
+#### Maranatha High School
+|     Science Faculty (2006-2013)
+|     Department Chair (2010-2013)
+|
+<details>
+  <summary>*Position Details*</summary>
+*During my tenure as chair the school improved over virtually every relevant metric related to science enrollment and performance while new enrollments remained relatively stable. Initiated several new extracurricular opportunities (Science Olympiad, Science Quiz Bowl, School Science Fair, Student Internship & Research Opportunities). Increased both overall and URM enrollments in AP science courses while also increasing average score and pass rate. Average pass rate for AP Chemistry exams at the school went from 0% in the year before teaching the course to 95% year four.*
+</details> 
+|
+|
 
+## Education
+|
+#### University of Southern California, Rossier School of Education
+|     M.A., Teaching (2014)
+#### Fuller Theological Seminary
+|     M.A., Theology, Biblical Studies (2006)
+#### Tulane University
+|     B.S., Physics (2003)
+|     B.A., Philosophy (2003)
+|
+|
 
 ## Presentations
-
+* Brown, A. “Perceptions of learning analytics in higher ed: A systems perspective.” *Higher Ed Utilization of Learning Analytics*. Emory University: Jones Program in Ethics. Invited Presentation. (April 2021)
+* Brown, A., Heiser, R., McCarty, S., Nyland, R., Quick J., & Thomas, R. “Learning Analytics from a Systems Perspective.” Oregon State University Ecampus Leadership Team. Invited Presentation. (February 2021)
+* Presenter, “[Learning Analytics: Friend or Foe?](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6720&kwds=)” *OLC Innovate Conference*, Denver, CO (April 2019)
+* Presenter, “[Rethinking synchronicity](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6608&kwds=_)” *OLC Innovate Conference*, Denver, CO (April 2019)
+* Presenter, “[Using Technology to enhance study abroad: Online courses for overseas experiences.](https://globaleducationconference.ciee.org/wp-content/uploads/2017-Austin-Program.pdf)” *CIEE Annual Conference*, Austin, TX. (November 2017)
+* Co-presenter, “Building the Ship while Sailing: Faculty Learning Communities and Technology,” *Magna Teaching with Technology Conference*, Baltimore, MD. (October 2017)
+ + Brown, A., and Yu, Q. (2018). “Building the ship while sailing: Faculty learning communities and technology.” In [Best of the 2017 Magna Teaching with Technology Conference.](http://info.magnapubs.com/2017-best-of-teaching-with-technology) Magna Publications: 6-7.
+* Co-presenter, “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry,” *Biennial Conference on Chemical Education*, Greeley, CO. (July 2016)
+|
+|
 
 ## Faculty Development Work
+* Framework for Online Program & Course Design, Presentation to professional school faculty and administrators (July 2021)
+* [Summer Teaching Colloquium](https://oe.wfu.edu/teaching-online/colloquium/), funded by the Provost's BOLD Grant
+* Chunking Content: organizing and segmenting information to promote better learning online. School of Law faculty (July 2020)
+* What’s the deal with workload: How do we estimate it, why does it matter, and what can we do to manage it appropriately? School of Business faculty (June 2020)
+* [Wake Forest Faculty Peer to Peer Learning Community Initiative](https://cat.wfu.edu/support/forteachers/communities/peertopeer/), Faculty Commons Offices (July 2020)
+* Teaching Online @ Wake, Online Faculty Development Course (Spring 2020)
+* [Data Analysis in R: Research & Learning](https://docs.google.com/document/d/1qUvv8jJ0Q1Y0tO3RksxlyJZRKdsc15VJ6fKcecFiDbM/edit), Faculty Learning Community (2018-2019)
+* [Data Analysis in R](https://vimeopro.com/user39539526/data-analysis-in-r) (Fall 2018), 6-workshop series
+* [Technology & Multimedia for Teaching](https://docs.google.com/document/d/1NGRdtR5lrvSNID9V_idvqchpyqyYHIUBcL6jmmo2x0c/edit?usp=sharing), Faculty Learning Community (Spring 2017)
+* Digital & Open Pedagogy, Workshop series (Fall 2016)
+* Blended Learning for Business Education, Faculty Learning Community (Summer 2015)
+
