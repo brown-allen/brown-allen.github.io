@@ -4,4 +4,14 @@ output: html_document
 ---
 ```{r, child="_setup.Rmd"}
 ```
-#Header
+
+## Education
+
+
+## Professional Experience
+
+
+## Presentations
+
+
+## Faculty Development Work
