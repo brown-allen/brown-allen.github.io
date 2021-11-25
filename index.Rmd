@@ -5,7 +5,7 @@ title: ""
 ```{r, child="_setup.Rmd"}
 ```
 
-```{r, out.width = "50%", fig.align = 'center, out.extra='style="padding:20px;"' , echo=FALSE}
+```{r, out.width = "50%", fig.align = 'center, out.extra = 'style= "border:10px;" ', echo=FALSE}
 include_graphics("website_headshot.png")
 ```
 
