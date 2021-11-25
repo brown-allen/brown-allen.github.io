@@ -3,12 +3,10 @@ output_dir: "docs"
 navbar:
   title: "Allen S. Brown"
   right:
-  - text: "work"
-    href: work.html
-  - text: "about"
-    href: about.html
   - text: "resume"
     href: resume.html
+  - text: "work"
+    href: work.html
 output:
   html_document:
     theme: journal
