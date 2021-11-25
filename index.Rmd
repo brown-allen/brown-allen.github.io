@@ -5,7 +5,7 @@ title: 'Allen S. Brown | Wake Forest University'
 ```{r, child="_setup.Rmd"}
 ```
 
-```{r, out.width = "80%", fig.align = 'center', echo=FALSE}
+```{r, out.width = "90%", fig.align = 'center', echo=FALSE}
 knitr::include_graphics("website_headshot.png")
 ```
 
