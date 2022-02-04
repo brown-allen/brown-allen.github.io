@@ -51,6 +51,12 @@ output: html_document
 |
 |
 
+## Selected Publications
+* Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics in Higher Education:Stakeholder Voices](https://ecampus.oregonstate.edu/research/wp-content/uploads/Learning-Analytics-Report-220131.pdf)*. Corvallis, OR. Oregon State University Ecampus Research Unit.
+* Brown, A. & Yu, Q. (2018). [Building the Ship while Sailing: Faculty Learning Communities and Technology](http://info.magnapubs.com/2017-best-of-teaching-with-technology). In **Best of the 2017 Magna Teaching with Technology Conference** (p. 6-7). Magna Publications.
+|
+|
+
 ## Presentations
 * Brown, A. “[Perceptions of learning analytics in higher ed: A systems perspective](https://www.trumba.com/calendars/lgs_jpe?eventid=150584802).” *Higher Ed Utilization of Learning Analytics*. Emory University: Jones Program in Ethics. Invited Presentation. (April 2021)
 * Brown, A., Heiser, R., McCarty, S., Nyland, R., Quick J., & Thomas, R. “Learning Analytics from a Systems Perspective.” Oregon State University Ecampus Leadership Team. Invited Presentation. (February 2021)
