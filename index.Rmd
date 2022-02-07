@@ -5,11 +5,13 @@ title: 'Allen S. Brown'
 ```{r, child="_setup.Rmd"}
 ```
 
-```{r, out.width = "90%", fig.align = 'center', echo=FALSE}
-knitr::include_graphics("website_headshot.png")
+```{r, out.width = "100%", fig.align = 'left', echo=FALSE}
+knitr::include_graphics("website_headshot3.png")
 ```
 
 |
+
+---
 
 ## Director of Online Education | Wake Forest University
 
