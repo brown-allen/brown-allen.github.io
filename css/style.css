@@ -24,6 +24,9 @@ blockquote {
   margin-top: 20px;
 }
 
+a:link { color: #1db7e2; } 
+a:hover { color: #1793b5; }
+
 h2, h3, h4, h5, h6 {
   font-weight: normal;
   margin-top: 18px;

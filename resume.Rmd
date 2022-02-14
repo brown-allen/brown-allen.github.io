@@ -14,7 +14,7 @@ output: html_document
 * Associate Director, Instructional Design (2018-2019)
 * Instructional Designer (2015-2018)
 <details>
-  <summary>**Position Details**</summary>
+  <summary>***Position Details***</summary>
 *Advise senior academic administrators, schools, and programs on the design, development, and implementation of a broad range of online learning experiences (both degree & non-degree) in a manner that aligns with strategic objectives and values while ensuring the instructional integrity of online course development projects across the institution. Conducted original research, fostered strategic collaborations, and created evidence-based resources and tools that contributed to effective online teaching, learning and program administration. Developed and curated resources, tools, and technologies to evaluate and shape online course design and delivery. Oversaw training, on-demand help guides, and secondary technical support designed to support instructors teaching online courses. Managed a diverse team that contributed to a transparent and equitable organizational culture.*
 </details> 
 
@@ -23,7 +23,7 @@ output: html_document
 #### Fuller Theological Seminary
 * Instructional Designer, Office of Teaching & Learning (2013-2015)
 <details>
- <summary>**Position Details**</summary>
+ <summary>***Position Details***</summary>
 *Partnered with faculty to design, redesign, and assess online courses and other learning experiences across the institution. Developed several new resources relevant to online course development. Partnered closely with IT to integrate new technologies in the service of teaching and learning.*
 </details> 
 
@@ -33,7 +33,7 @@ output: html_document
 * Science Faculty (2006-2013)
 * Department Chair (2010-2013)
 <details>
-  <summary>**Position Details**</summary>
+  <summary>***Position Details***</summary>
 *During my tenure as chair the school improved over virtually every relevant metric related to science enrollment and performance while new enrollments remained relatively stable. Initiated several new extracurricular opportunities (Science Olympiad, Science Quiz Bowl, School Science Fair, Student Internship & Research Opportunities). Increased both overall and URM enrollments in AP science courses while also increasing average score and pass rate. Average pass rate for AP Chemistry exams at the school went from 0% in the year before teaching the course to 95% year four.*
 </details> 
 |
@@ -55,6 +55,7 @@ output: html_document
 * Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics from a Systems Perspective: Implications for Practice](https://er.educause.edu/articles/2022/2/learning-analytics-from-a-systems-perspective-implications-for-practice)*. EDUCAUSE Review. Boulder, CO.
 * Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics in Higher Education:Stakeholder Voices](https://ecampus.oregonstate.edu/research/wp-content/uploads/Learning-Analytics-Report-220131.pdf)*. Corvallis, OR. Oregon State University Ecampus Research Unit.
 * Brown, A. & Yu, Q. (2018). [Building the Ship while Sailing: Faculty Learning Communities and Technology](http://info.magnapubs.com/2017-best-of-teaching-with-technology). In **Best of the 2017 Magna Teaching with Technology Conference** (p. 6-7). Magna Publications.
+
 |
 |
 
@@ -67,6 +68,7 @@ output: html_document
 * Co-presenter, “Building the Ship while Sailing: Faculty Learning Communities and Technology,” *Magna Teaching with Technology Conference*, Baltimore, MD. (October 2017)
  + Brown, A., and Yu, Q. (2018). “Building the ship while sailing: Faculty learning communities and technology.” In [Best of the 2017 Magna Teaching with Technology Conference.](http://info.magnapubs.com/2017-best-of-teaching-with-technology) Magna Publications: 6-7.
 * Co-presenter, “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry,” *Biennial Conference on Chemical Education*, Greeley, CO. (July 2016)
+
 |
 |
 
