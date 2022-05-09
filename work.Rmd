@@ -9,12 +9,8 @@ output: html_document
 
 |
 
-* Learning Analytics Research Seminar Cohort. *Learning analytics from a systems perspective* [Working White paper]. Oregon State University Ecampus Research Unit.
-* Brown, A., Dello Stritto, M. E., Heiser, R., Nyland, R., et al. “Learning Analytics from a Systems Perspective: Implications for Practice.” *Educause Review* [Submitted]
 * Dello Stritto, M. E., Heiser, R., Brown, A., Croft, B. “Issues of bias & equity in the uses of learner data.” (Manuscript in progress)
 * Rives, A. & Brown, A. “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry,” (Manuscript in progress)
-
-Details: [Learning Analytics Research Cohort](https://ecampus.oregonstate.edu/research/opportunities/online-teaching-learning-research-seminars/cohort/), Ecampus Research Unit, Oregon State University
 
 |
 |
@@ -24,9 +20,14 @@ Details: [Learning Analytics Research Cohort](https://ecampus.oregonstate.edu/re
 |
 |
 
+### OSU Ecampus Learning Analytics Cohort
+One of 12 participating researchers in the Perceptions of Learning Data in Higher Education study. This interview-based study collected information about student, faculty, staff, and administrator views of how data is used to understand the student experience or to improve student learning in higher education. The project was designed with a systems perspective in mind in order to explore benefits and challenges of the use of learning and learner data, ethics and privacy issues and concerns among different stakeholder groups, and ideas and perceptions regarding the current and future uses of learning and learner data.
+*[Findings from the Perceptions of Learning Data in Higher Education](https://ecampus.oregonstate.edu/research/study/learning-analytics/results.htm)*
+
+|
 ### Course Workload Estimator
 I joined with Betsy Barre and Justin Esarey to modify their course workload estimator. The enhanced estimator includes additional fields particularly salient to online course designs.
-[Course Workload Estimator 2.0](https://cat.wfu.edu/resources/tools/estimator2)
+*[Course Workload Estimator 2.0](https://cat.wfu.edu/resources/tools/estimator2)*
 
 |
 
