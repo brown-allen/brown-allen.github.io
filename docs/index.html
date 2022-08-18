@@ -13,7 +13,7 @@
 
 <title>Allen S. Brown</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.15/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
@@ -62,6 +62,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="css/style.css" type="text/css" />
 
 
@@ -86,6 +87,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -143,11 +147,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -311,7 +319,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -324,10 +332,10 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="resume.html">resume</a>
+  <a href="research.html">Research</a>
 </li>
 <li>
-  <a href="work.html">work</a>
+  <a href="teaching.html">Teaching</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -347,11 +355,26 @@ div.tocify {
 <p><img src="website_headshot3.png" width="100%" style="display: block; margin: auto auto auto 0;" /></p>
 <div class="line-block"></div>
 <hr />
-<div id="director-of-online-education-wake-forest-university" class="section level2">
-<h2>Director of Online Education | Wake Forest University</h2>
+<div id="ph.-d.-student-organizational-behavior-theory"
+class="section level2">
+<h2>Ph. D. Student | Organizational Behavior &amp; Theory</h2>
+<p><strong>Tepper School of Business, Carnegie Mellon
+University</strong></p>
 <div class="line-block"><br />
 </div>
-<p>In my current role I work closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. I previously worked as the Associate Director for Instructional Design. Before arriving at Wake Forest in January 2015, my professional career included nearly a decade in education, moving from work teaching high school physics and chemistry to instructional design in higher education. My areas of professional interest include program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.</p>
+<p>I am a first-year doctoral student in Organizational Behavior and
+Theory at the Tepper School of Business. My aim is to research the
+impact digital technologies and artificial forms of intelligence are
+having on current frameworks used for making sense of the meso and macro
+structures at work within institutions and firms.</p>
+<p>Previously, I worked as the Director of Online Education at Wake
+Forest University, where I partnered closely with institutional
+leadership to plan, develop, and support online programs reflective of
+Wake Forest’s institutional mission and values. My areas of professional
+interest included program development methods that support equitable
+outcomes for students, novel frameworks for conceiving of human-centered
+processes for instructional design, and perceptions of learning data in
+higher education.</p>
 </div>
 
 

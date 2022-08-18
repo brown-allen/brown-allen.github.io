@@ -13,10 +13,13 @@ knitr::include_graphics("website_headshot3.png")
 
 ---
 
-## Director of Online Education | Wake Forest University
+## Ph. D. Student | Organizational Behavior & Theory
+**Tepper School of Business, Carnegie Mellon University**
 
 |
 |
 
-In my current role I work closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. I previously worked as the Associate Director for Instructional Design. Before arriving at Wake Forest in January 2015, my professional career included nearly a decade in education, moving from work teaching high school physics and chemistry to instructional design in higher education. My areas of professional interest include program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.
+I am a first-year doctoral student in Organizational Behavior and Theory at the Tepper School of Business. My aim is to research the impact digital technologies and artificial forms of intelligence are having on current frameworks used for making sense of the meso and macro structures at work within institutions and firms.
+
+Previously, I worked as the Director of Online Education at Wake Forest University, where I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.
 
