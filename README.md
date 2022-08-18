@@ -1,2 +1,2 @@
 # brown-allen.github.io
-Personal Webpage
+Personal Academic Webpage
