@@ -1,5 +1,5 @@
 ---
-title: 'Allen S. Brown'
+title: "Allen S. Brown"
 ---
 
 ```{r, child="_setup.Rmd"}
