@@ -19,7 +19,7 @@ knitr::include_graphics("website_headshot3.png")
 |
 |
 
-I am a first-year doctoral student in Organizational Behavior and Theory at the Tepper School of Business. My aim is to research the impact digital technologies and artificial forms of intelligence are having on current frameworks used for making sense of the meso and macro structures at work within institutions and firms.
+I am a first-year doctoral student in Organizational Behavior and Theory at the Tepper School of Business studying the meso and macro structures at work within organizations and firms. My aim is to research processes and practices of (e)valuation and knowledge transfer, with special attention to the mediating effects of digital technologies and artificial intelligences.
 
-Previously, I worked as the Director of Online Education at Wake Forest University, where I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered processes for instructional design, and perceptions of learning data in higher education.
+Previously, I worked as the Director of Online Education at Wake Forest University, where I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered instructional design, and perceptions of learning data in higher education.
 
