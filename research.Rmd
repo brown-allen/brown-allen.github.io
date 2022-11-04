@@ -12,7 +12,6 @@ output: html_document
 * Learning Analytics
 
 |
-|
 
 ## Publications
 * Heiser, R., Dello Stritto, M. E., Brown, A. S., Croft, B. (*In Press*) “Giving voice to student and administrator perspectives on equity and bias in learning analytics: Alone together in higher education.” *Journal of Learning Analytics*
