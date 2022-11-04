@@ -14,7 +14,7 @@ output: html_document
 |
 
 ## Publications
-* Heiser, R., Dello Stritto, M. E., Brown, A. S., Croft, B. (*In Press*) “Giving voice to student and administrator perspectives on equity and bias in learning analytics: Alone together in higher education.” *Journal of Learning Analytics*
+* Heiser, R. E., Dello Stritto, M. E., Brown, A. S., Croft, B. (*In Press*) “Giving voice to student and administrator perspectives on equity and bias in learning analytics: Alone together in higher education.” *Journal of Learning Analytics*
 
 ### Research in Progress
 * Rives, A. & Brown, A. “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry.” (Manuscript in progress)
