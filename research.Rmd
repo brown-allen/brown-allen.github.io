@@ -16,9 +16,6 @@ output: html_document
 ## Publications
 * Heiser, R. E., Dello Stritto, M. E., Brown, A., Croft, B. (2023) Amplifying Student and Administrator Perspectives on Equity and Bias in Learning Analytics: Alone Together in Higher Education. *Journal of Learning Analytics*, *10*(1), 8-23. [https://doi.org/10.18608/jla.2023.7775](https://doi.org/10.18608/jla.2023.7775)
 
-### Research in Progress
-* Rives, A. & Brown, A. “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry.” (Manuscript in progress)
-
 ### Professional Publications
 * Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics from a Systems Perspective: Implications for Practice](https://er.educause.edu/articles/2022/2/learning-analytics-from-a-systems-perspective-implications-for-practice)*. EDUCAUSE Review. Boulder, CO.
 * Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics in Higher Education:Stakeholder Voices](https://ecampus.oregonstate.edu/research/wp-content/uploads/Learning-Analytics-Report-220131.pdf)*. Corvallis, OR. Oregon State University Ecampus Research Unit.
