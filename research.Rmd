@@ -31,7 +31,8 @@ output: html_document
 |
 
 ### Academic Presentations
-* “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry,” *Biennial Conference on Chemical Education*, Greeley, CO. (July 2016)
+* "Reducing rating surprise through platform design to achieve higher level of trust in algorithmic evaluations." [*Trust: Social Bridge Between Humans and Technology.*](https://tu-dresden.de/ing/elektrotechnik/ias/aha/socialbridges/programm) Virtual conference hosted by TU Dresden. (September, 2023).
+* “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry.” *Biennial Conference on Chemical Education.* Greeley, CO. (July 2016).
 
 |
 |
