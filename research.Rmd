@@ -5,44 +5,31 @@ output: html_document
 ```{r, child="_setup.Rmd"}
 ```
 
-## Research Interests
-* Sociology of Valuation and Evaluation
-* Human-Autonomy Teaming
-* Organizational Learning
-* Learning Analytics
+### Research Interests
+
+---
+
+* Human-AI teaming
+* Trust in algorithmic systems
+* Organizational learning
+* Sociology of valuation and evaluation
 
 |
 
-## Publications
-* Heiser, R. E., Dello Stritto, M. E., Brown, A., Croft, B. (2023) Amplifying Student and Administrator Perspectives on Equity and Bias in Learning Analytics: Alone Together in Higher Education. *Journal of Learning Analytics*, *10*(1), 8-23. [https://doi.org/10.18608/jla.2023.7775](https://doi.org/10.18608/jla.2023.7775)
+### Conference Presentations
 
-|
+---
 
-### Professional Publications
-* Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics from a Systems Perspective: Implications for Practice](https://er.educause.edu/articles/2022/2/learning-analytics-from-a-systems-perspective-implications-for-practice)*. EDUCAUSE Review. Boulder, CO.
-* Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning Analytics in Higher Education:Stakeholder Voices](https://ecampus.oregonstate.edu/research/wp-content/uploads/Learning-Analytics-Report-220131.pdf)*. Corvallis, OR. Oregon State University Ecampus Research Unit.
+*Commitment issues: Feedback, commitment, and performance in algorithmically managed contexts*
 
-|
-|
+* Academy of Management Annual Meeting, "Humans + AI: Organizational behavior research on human-machine interactions." (Symposium). Chicago, IL. August, 2024.
+* [ACM Collective Intelligence.](https://ci2024.weebly.com/program.html) (Parallel Paper Session). Boston, MA. June, 2024
 
-## Presentations
+*Beyond efficiency: Trust, AI, and surprise in knowledge work environments*
 
-|
-|
+* [Trust: Social Bridge Between Humans and Technology.](https://tu-dresden.de/ing/elektrotechnik/ias/aha/socialbridges/programm) Virtual. September, 2023.
 
-### Academic Presentations
-* "Reducing rating surprise through platform design to achieve higher level of trust in algorithmic evaluations." [*Trust: Social Bridge Between Humans and Technology.*](https://tu-dresden.de/ing/elektrotechnik/ias/aha/socialbridges/programm) Virtual conference hosted by TU Dresden. (September, 2023).
-* “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry.” *Biennial Conference on Chemical Education.* Greeley, CO. (July 2016).
 
-|
-|
-
-### Invited Consortia & Workshops
-* Co-Presenter “Learning Analytics from a Systems Perspective.” Oregon State University Ecampus Leadership Team. Invited Presentation. (February 2021)
-* OSU Ecampus Research Seminar. Learning Analytics Cohort Participant (2019-2021)
-
-|
-|
 
 
 

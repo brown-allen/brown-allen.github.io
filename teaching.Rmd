@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Allen S. Brown | Teaching"
 output: html_document
 ---
 ```{r, child="_setup.Rmd"}
@@ -7,10 +7,27 @@ output: html_document
 
 ## Teaching Experience
 
+---
+
+### Carnegie Mellon University
+
+|
+|
+
+#### Teaching Assistant
+
+* Organizational Change (MBA), Dr. Gerard Beenen, Summer 2024
+* Global and Distributed Teams (MBA), Dr. Anita Williams Woolley, Spring 2024
+* Managing Across Cultures (MBA), Dr. Oliver Hahl, Spring 2024
+* Introduction to Entrepreneurship (Undergraduate), Dr. D. Carrington Motley, Spring 2024
+
 |
 |
 
 ### Wake Forest University
+
+|
+|
 
 #### Instructor
 * The College Transition, FYE 101 (Fall 2017; Fall 2019)
@@ -19,16 +36,29 @@ output: html_document
 |
 |
 
-## Teaching Development Work
+## Scholarship on Teaching and Learning
+
+---
+
+### Publications
 
 |
 |
 
-### Selected Articles & Posts
+#### Academic
+* Heiser, R. E., Dello Stritto, M. E., Brown, A., Croft, B. (2023) Amplifying student and administrator perspectives on equity and bias in learning analytics: Alone together in higher education. *Journal of Learning Analytics*, *10*(1), 8-23. [https://doi.org/10.18608/jla.2023.7775](https://doi.org/10.18608/jla.2023.7775)
+
+#### Professional 
+
+* Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning analytics from a systems perspective: Implications for practice](https://er.educause.edu/articles/2022/2/learning-analytics-from-a-systems-perspective-implications-for-practice)*. EDUCAUSE Review. Boulder, CO.
+* Brown, A., Croft, B., Dello Stritto, M. E., Heiser, R., McCarty, S., McNally, D., Nyland, R., Quick, J., Thomas, R., & Wilks, M. (2022). *[Learning analytics in higher education: Stakeholder voices](https://ecampus.oregonstate.edu/research/wp-content/uploads/Learning-Analytics-Report-220131.pdf)*. Corvallis, OR. Oregon State University Ecampus Research Unit.
 * Brown, A., and Yu, Q. (2018). “Building the ship while sailing: Faculty learning communities and technology.” In [Best of the 2017 Magna Teaching with Technology Conference.](http://info.magnapubs.com/2017-best-of-teaching-with-technology) Magna Publications: 6-7.
-* [Building the Online Learning Community](https://cat.wfu.edu/2020/04/onlinecommunity/#) (April 2020). Center for the Advancement of Teaching Blog.
-* [Scratching an Itch](https://oe.wfu.edu/2019/02/scratching-an-itch/) (February 2019). Office of Online Education Blog.
-* [Human-centered Instructional Design](https://oe.wfu.edu/2019/02/human-centered-instructional-design/) (February 2019). Office of Online Education Blog.
+
+#### Articles & Posts
+
+* [Building the online learning community](https://cat.wfu.edu/2020/04/onlinecommunity/#) (April 2020). Center for the Advancement of Teaching Blog.
+* [Scratching an itch](https://oe.wfu.edu/2019/02/scratching-an-itch/) (February 2019). Office of Online Education Blog.
+* [Human-centered instructional design](https://oe.wfu.edu/2019/02/human-centered-instructional-design/) (February 2019). Office of Online Education Blog.
 
 |
 |
@@ -38,24 +68,16 @@ output: html_document
 |
 |
 
-#### Invited Consortia & Workshops
-* *Chunking Content, Online Course Design*: (July 2020) Invited presentation to the faculty of Wake Forest's School of Law in preparation for online and remote instruction. Addressed the theory and practice behind segmenting instructional content for online and digital learning environments.
-<details>
-  <summary>**Expand to View Presentation**</summary>
-<iframe src="https://player.vimeo.com/video/437171592?h=c5bcd8c736" width="640" height="354" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</details>
-* *What’s the deal with workload: How do we estimate it, why does it matter, and what can we do to manage it appropriately?* (June 2020) Invited presentation to the faculty of Wake Forest's School of Business in preparation for online and remote instruction. Addressed workload considerations, both real and perceived, in online and blended courses.
-
-|
-|
-
 #### Conference Presentations
-* Presenter, “[Learning Analytics: Friend or Foe?](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6720&kwds=)” *OLC Innovate Conference*, Denver, CO (April 2019)
+* Presenter, “[Learning analytics: Friend or foe?](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6720&kwds=)” *OLC Innovate Conference*, Denver, CO (April 2019)
 * Presenter, “[Rethinking synchronicity](https://onlinelearningconsortium.org/olc-innovate-2019-session-page/?session=6608&kwds=_)” *OLC Innovate Conference*, Denver, CO (April 2019)
-* Presenter, “[Using Technology to enhance study abroad: Online courses for overseas experiences.](https://globaleducationconference.ciee.org/wp-content/uploads/2017-Austin-Program.pdf)” *CIEE Annual Conference*, Austin, TX. (November 2017)
-* Co-presenter, “Building the Ship while Sailing: Faculty Learning Communities and Technology,” *Magna Teaching with Technology Conference*, Baltimore, MD. (October 2017)
-|
-|
+* Presenter, “[Using technology to enhance study abroad: Online courses for overseas experiences.](https://globaleducationconference.ciee.org/wp-content/uploads/2017-Austin-Program.pdf)” *CIEE Annual Conference*, Austin, TX. (November 2017)
+* Co-presenter, “Building the ship while sailing: Faculty learning communities and technology,” *Magna Teaching with Technology Conference*, Baltimore, MD. (October 2017)
+* “Wake Forest’s ChemBook: Producing bite-size text and videos for presenting thermochemistry.” *Biennial Conference on Chemical Education.* Greeley, CO. (July 2016).
+
+#### Invited Consortia & Workshops
+* Co-Presenter “Learning analytics from a systems perspective.” Oregon State University Ecampus Leadership Team. Invited Presentation. (February 2021)
+* OSU Ecampus Research Seminar. Learning analytics cohort participant (2019-2021)
 
 #### Course Workload Estimator
 I joined with Betsy Barre and Justin Esarey to modify their course workload estimator. The enhanced estimator includes additional fields particularly salient to online course designs.
@@ -64,14 +86,5 @@ I joined with Betsy Barre and Justin Esarey to modify their course workload esti
 |
 |
 
-### Faculty Development Work
-* Framework for Online Program & Course Design, Presentation to professional school faculty and administrators (July 2021)
-* [Summer Teaching Colloquium](https://oe.wfu.edu/teaching-online/colloquium/), funded by the Provost's BOLD Grant
-* [Wake Forest Faculty Peer to Peer Learning Community Initiative](https://cat.wfu.edu/support/forteachers/communities/peertopeer/), Faculty Commons Offices (July 2020)
-* Teaching Online @ Wake, Online Faculty Development Course (Spring 2020)
-* [Data Analysis in R: Research & Learning](https://docs.google.com/document/d/1qUvv8jJ0Q1Y0tO3RksxlyJZRKdsc15VJ6fKcecFiDbM/edit), Faculty Learning Community (2018-2019)
-* [Data Analysis in R](https://vimeopro.com/user39539526/data-analysis-in-r) (Fall 2018), 6-workshop series
-* [Technology & Multimedia for Teaching](https://docs.google.com/document/d/1NGRdtR5lrvSNID9V_idvqchpyqyYHIUBcL6jmmo2x0c/edit?usp=sharing), Faculty Learning Community (Spring 2017)
-* Digital & Open Pedagogy, Workshop series (Fall 2016)
-* Blended Learning for Business Education, Faculty Learning Community (Summer 2015)
+
 

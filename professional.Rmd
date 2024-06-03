@@ -1,0 +1,45 @@
+---
+title: "Allen S. Brown | Professional"
+output: html_document
+---
+```{r, child="_setup.Rmd"}
+```
+
+
+### Director of Online Education, Wake Forest University
+
+---
+
+Previously, I worked in the Office of Online Education at Wake Forest University, most recently as Director (2019-2022). In this role, I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered instructional design, and perceptions of learning data in higher education.
+
+Included below is a selection of presentations, workshops, and other experiences that I facilitated during my work in this office.
+
+|
+|
+
+#### Invited Presentations
+
+|
+|
+
+* *Chunking Content, Online Course Design*: (July 2020) Invited presentation to the faculty of Wake Forest's School of Law in preparation for online and remote instruction. Addressed the theory and practice behind segmenting instructional content for online and digital learning environments.
+<details>
+  <summary>**Expand to View Presentation**</summary>
+<iframe src="https://player.vimeo.com/video/437171592?h=c5bcd8c736" width="640" height="354" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</details>
+* *What’s the deal with workload: How do we estimate it, why does it matter, and what can we do to manage it appropriately?* (June 2020) Invited presentation to the faculty of Wake Forest's School of Business in preparation for online and remote instruction. Addressed workload considerations, both real and perceived, in online and blended courses.
+
+#### Consortia and Workshops
+
+|
+|
+
+* *Framework for Online Program & Course Design*, Presentation to professional school faculty and administrators (July 2021)
+* *Summer Teaching Colloquium*, funded by the Provost's BOLD Grant
+* [Wake Forest Faculty Peer to Peer Learning Community Initiative](https://cat.wfu.edu/support/forteachers/communities/peertopeer/), Faculty Commons Offices (July 2020)
+* Teaching Online @ Wake, Online Faculty Development Course (Spring 2020)
+* *Data Analysis in R: Research & Learning*, Faculty Learning Community (2018-2019)
+* [Data Analysis in R](https://vimeopro.com/user39539526/data-analysis-in-r) (Fall 2018), 6-workshop series
+* *Technology & Multimedia for Teaching*, Faculty Learning Community (Spring 2017)
+* *Digital & Open Pedagogy*, Workshop series (Fall 2016)
+* *Blended Learning for Business Education*, Faculty Learning Community (Summer 2015)

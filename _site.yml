@@ -7,6 +7,8 @@ navbar:
     href: research.html
   - text: "Teaching"
     href: teaching.html
+  - text: "Professional"
+    href: professional.html
 output:
   html_document:
     theme: journal
