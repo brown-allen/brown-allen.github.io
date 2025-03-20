@@ -16,10 +16,14 @@ output: html_document
 
 #### Teaching Assistant
 
-* Organizational Change (MBA), Dr. Gerard Beenen, Summer 2024
-* Global and Distributed Teams (MBA), Dr. Anita Williams Woolley, Spring 2024
-* Managing Across Cultures (MBA), Dr. Oliver Hahl, Spring 2024
-* Introduction to Entrepreneurship (Undergraduate), Dr. D. Carrington Motley, Spring 2024
+* Corporate Strategy (MBA), Dr. Oliver Hahl
+* Global and Distributed Teams (MBA), Dr. Anita Williams Woolley
+* Introduction to Entrepreneurship (Undergraduate), Dr. Carrington Motley
+* Managing Across Cultures (MBA), Dr. Oliver Hahl
+* Managing People and Teams (MBA, MSBA), Dr. Anita Woolley
+* Organizational Change (MBA), Dr. Gerard Beenen
+* Special topics in Business Strategy (MBA, Undergraduate), Dr. David Major
+* Strategic Management & Innovation (MBA), Dr. Oliver Hahl
 
 |
 |
@@ -30,8 +34,10 @@ output: html_document
 |
 
 #### Instructor
-* The College Transition, FYE 101 (Fall 2017; Fall 2019)
+
 * Literacy in the 21st c., EDU 377 (Fall 2021)
+* The College Transition, FYE 101 (Fall 2017; Fall 2019)
+
 
 |
 |

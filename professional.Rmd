@@ -10,7 +10,7 @@ output: html_document
 
 ---
 
-Previously, I worked in the Office of Online Education at Wake Forest University, most recently as Director (2019-2022). In this role, I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered instructional design, and perceptions of learning data in higher education.
+I previously worked in the Office of Online Education at Wake Forest University, most recently as Director (2019-2022). In this role, I partnered closely with institutional leadership to plan, develop, and support online programs reflective of Wake Forest’s institutional mission and values. My areas of professional interest included program development methods that support equitable outcomes for students, novel frameworks for conceiving of human-centered instructional design, and perceptions of learning data in higher education.
 
 Included below is a selection of presentations, workshops, and other experiences that I facilitated during my work in this office.
 
