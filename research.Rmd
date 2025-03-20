@@ -9,12 +9,13 @@ output: html_document
 
 ---
 
-* Human-AI teaming
-* Trust in algorithmic systems
-* Organizational learning
-* Sociology of valuation and evaluation
+Human-AI teaming | Trust in algorithmic systems | Organizational learning | Social (e)valuation
 
-|
+### Publications
+
+---
+
+Brown, A. S., Dishop, C. R., Kuznetsov, A., Chao, P. Y., & Woolley, A. W. (2025). [Beyond Efficiency: Trust, AI, and Surprise in Knowledge Work Environments](https://www.sciencedirect.com/science/article/pii/S0747563225000524). ***Computers in Human Behavior***, 108605.
 
 ### Conference Presentations
 
