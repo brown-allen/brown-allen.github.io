@@ -19,7 +19,7 @@ knitr::include_graphics("website_headshot2025.png")
 |
 |
 
-I study the meso structures at work within organizations and across the world of work. My current stream of research explores processes of learning, performance, and emergent phenomenon in contexts of human-agent/AI teaming and interactions.
+ChatGPT said:I study how people and organizations adapt as work becomes increasingly intertwined with artificial intelligence. My research explores what helps humans collaborate, learn, and stay creative when AI systems become part of the team. By examining the emotional and cognitive factors that shape these interactions, I aim to understand what makes human–AI collaboration effective, trustworthy, and humane. Ultimately, my work seeks to illuminate how technology can expand—not diminish—our capacity to work and think together.
 
 |
 |
