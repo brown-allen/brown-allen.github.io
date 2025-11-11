@@ -9,22 +9,33 @@ output: html_document
 
 ---
 
-Human-AI teaming | Trust in algorithmic systems | Organizational learning | Social (e)valuation
+Human-AI teaming | Psychological Safety | Trust in algorithmic systems
 
 ### Publications
 
 ---
 
-Brown, A. S., Dishop, C. R., Kuznetsov, A., Chao, P. Y., & Woolley, A. W. (2025). [Beyond Efficiency: Trust, AI, and Surprise in Knowledge Work Environments](https://www.sciencedirect.com/science/article/pii/S0747563225000524). ***Computers in Human Behavior***, 108605.
+Dishop, C. R., **Brown, A. S.**, Chao, P. Y., Kuznetsov, A., & Woolley, A. W. (2025). [Machines in the Middle: Using Artificial Intelligence (AI) While Offering Help Affects Warmth, Felt Obligations, and Reciprocity](https://link.springer.com/article/10.1007/s10869-025-10068-x). *Journal of Business and Psychology*, 1-28.
+
+**Brown, A. S.**, Dishop, C. R., Kuznetsov, A., Chao, P. Y., & Woolley, A. W. (2025). [Beyond Efficiency: Trust, AI, and Surprise in Knowledge Work Environments](https://www.sciencedirect.com/science/article/pii/S0747563225000524). *Computers in Human Behavior*, *167*, 108605.
 
 ### Conference Presentations
 
 ---
 
+*AI Collaboration and Affective Response: Examining the Effects of Anger-Provoking Behavior by AI Teammates on Collective Performance*
+
+* Academy of Management Annual Meeting. [“Humane & Symbiotic or Parasitic: Emotional and Ethical Perspectives of Human-Technology Interactions.”](https://journals.aom.org/doi/10.5465/AMPROC.2025.19450symposium) (Symposium Presenter). Copenhagen, Denmark. July, 2025.
+
+*Safe to Talk: Psychological Safety and GenAI at Work*
+
+* [AI and the Future of Work Conference](https://ai.wharton.upenn.edu/ai-and-the-future-of-work-conference-2025/). (Poster Presentation). Philadelphia, PA, USA. May, 2025.
+
+
 *Commitment issues: Feedback, commitment, and performance in algorithmically managed contexts*
 
-* Academy of Management Annual Meeting, "Humans + AI: Organizational behavior research on human-machine interactions." (Symposium). Chicago, IL. August, 2024.
-* [ACM Collective Intelligence.](https://ci2024.weebly.com/program.html) (Parallel Paper Session). Boston, MA. June, 2024
+* Academy of Management Annual Meeting, ["Humans + AI: Organizational behavior research on human-machine interactions."](https://journals.aom.org/doi/10.5465/AMPROC.2024.20641symposium) (Symposium Presenter). Chicago, IL. August, 2024.
+* [ACM Collective Intelligence.](https://ci2024.weebly.com/program.html) (Parallel Paper Session). Boston, MA. June, 2024.
 
 *Beyond efficiency: Trust, AI, and surprise in knowledge work environments*
 
