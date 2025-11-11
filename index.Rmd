@@ -19,7 +19,7 @@ knitr::include_graphics("website_headshot2025.png")
 |
 |
 
-ChatGPT said:I study how people and organizations adapt as work becomes increasingly intertwined with artificial intelligence. My research explores what helps humans collaborate, learn, and stay creative when AI systems become part of the team. By examining the emotional and cognitive factors that shape these interactions, I aim to understand what makes human–AI collaboration effective, trustworthy, and humane. Ultimately, my work seeks to illuminate how technology can expand—not diminish—our capacity to work and think together.
+I study how people and organizations adapt as work becomes increasingly intertwined with artificial intelligence. My research explores what helps humans collaborate, learn, and stay creative when AI systems become part of the team. By examining the emotional and cognitive factors that shape these interactions, I aim to understand what makes human–AI collaboration effective, trustworthy, and humane. Ultimately, my work seeks to illuminate how technology can expand—not diminish—our capacity to work and think together.
 
 |
 |
