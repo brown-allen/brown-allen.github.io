@@ -14,6 +14,10 @@ output: html_document
 |
 |
 
+#### Instructor
+
+* Organizational Behavior (Undergraduate, Summer 2026)
+
 #### Teaching Assistant
 
 * Corporate Strategy (MBA), Dr. Oliver Hahl
@@ -35,8 +39,8 @@ output: html_document
 
 #### Instructor
 
-* Literacy in the 21st c., EDU 377 (Fall 2021)
-* The College Transition, FYE 101 (Fall 2017; Fall 2019)
+* Literacy in the 21st c., EDU 377 (Undergraduate, Fall 2021)
+* The College Transition, FYE 101 (Undergraduate, Fall 2017; Fall 2019)
 
 
 |
