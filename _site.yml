@@ -9,6 +9,8 @@ navbar:
     href: teaching.html
   - text: "Professional"
     href: professional.html
+  - text: "CV"
+    href: "https://docs.google.com/document/d/1lRrl3r0c1Zz2x_VrnTjGpDZUv_yVMZQz/edit?usp=sharing&ouid=116885116013734164746&rtpof=true&sd=true"
 output:
   html_document:
     theme: journal
